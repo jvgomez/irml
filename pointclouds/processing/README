@@ -1,0 +1,14 @@
+How to compile and execute the programs:
+
+$ cmake .
+$ make
+
+
+
+Aligment:
+
+./template_alignment ../../database/cloudsLabeled/object_templates.txt input.pcd
+
+The object_templates.txt file contains the clouds the program is going to use as a template. They are referred from the processing/<program> folder since these programs are executed in their own folder.
+
+input.pcd is a full point cloud. It can be in other folder as well.
