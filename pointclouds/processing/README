@@ -5,10 +5,42 @@ $ make
 
 
 
-Aligment:
+- Aligment:
 
-./template_alignment ../../database/cloudsLabeled/object_templates.txt input.pcd
+$ ./template_alignment ../../database/cloudsLabeled/object_templates.txt input.pcd
 
 The object_templates.txt file contains the clouds the program is going to use as a template. They are referred from the processing/<program> folder since these programs are executed in their own folder.
 
 input.pcd is a full point cloud. It can be in other folder as well.
+
+
+- Init_segmentation:
+
+$ ./segment input.pcd
+
+It creates clusters for the main objects of a given point cloud. 
+
+
+- SavingFramesOpenNiGrabber
+
+$ ./pcd_write
+
+This program saves one frame of a PrimeSense camera (Kinect, Xtion Pro...) every 30 frames.
+
+
+- Segmentation:
+
+$ ./segment <Folder>
+
+It creates clusters for the main objects for all the given point clouds within a folder. 
+<Folder> has to contain only other folders and pcd files.
+
+
+- Segmentation_auto:
+
+$ ./segment <Folder>
+
+It creates clusters for the main objects for all the given point clouds within a folder. It also tries
+to output the main cluster only (the one which is closer to the camera (lower Z coordinate).
+<Folder> has to contain only other folders and pcd files.
+
