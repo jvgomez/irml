@@ -265,7 +265,8 @@ class TemplateAlignment
 		cerr << "\33[31m" << "You must provide the root path of the pcd files." << "\33[0m" << endl;
 		return 0;
 	}
-
+		pcl::console::TicToc total_timer;
+		total_timer.tic();
 		pcl::console::TicToc timer;
 
 		pcl::PointCloud<pcl::PointXYZ>::Ptr init_cloud (new pcl::PointCloud<pcl::PointXYZ>);
@@ -429,6 +430,7 @@ class TemplateAlignment
 	 cout << "\33[4;34m" << "Template alignment:" << "\33[0m" << endl; 
 	for (int k = 0; k < j; k++) // All the clusters
 	{
+		cout << "\33[4;33m" << "Alignin cluster :" <<  k <<"\33[0m" << endl; 
 		timer.tic();
 		pcl::PointCloud<pcl::PointXYZ>::Ptr cluster (new pcl::PointCloud<pcl::PointXYZ>);
 		std::stringstream ss;
@@ -476,5 +478,8 @@ class TemplateAlignment
 		  cout << "Time elapsed: ";
 			timer.toc_print();
 	}	
+	
+	cout << "Total time elapsed: ";
+	total_timer.toc_print();
 		
 }
