@@ -1,0 +1,24 @@
+- 3dfullmodels: .3ds and .ply of the models employed.
+
+- 3dmodelsLabeled: same .ply as before but all together.
+
+- 3dmodelsviews: pointclouds of partial views of the 3d models' .ply, obtained with the viewpoints processing program.
+
+- cloudsFull: initial pointclouds for the dataset.
+
+- cloudsLabeled: objects segmented and labeled.
+
+- unkonwnCloudsLabeled: same as before but for other objects not included in the database.
+
+Names:
+- c: chair.
+- u: cupboard.
+- t: table.
+- s: sofa.
+- l: lamp.
+- s: screen.
+- a: laptop.
+
+<obj><ID>_<view>.<ext>
+c001_001.pcd is chair 1, first view in pcd format.
+
