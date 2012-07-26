@@ -8,6 +8,8 @@
 
 - cloudsLabeled: objects segmented and labeled.
 
+- cloudsLabeledHQ: objects segmented and labeled wihtout downsampling when processed.
+
 - unkonwnCloudsLabeled: same as before but for other objects not included in the database.
 
 Names:
