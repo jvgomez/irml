@@ -1,0 +1,22 @@
+Programs to process the kinectdata.com database.
+
+
+DEPENDENCIES OF THIS FOLDER:
+
++ yaml-cpp: http://code.google.com/p/yaml-cpp/  To parse YAML files.
+
+
+FILES:
+
+- 3dreconstructor: takes an yml an creates the 3D point cloud (XYZ) in pcd format (Point Cloud Library file) www.pointclouds.org It is a basic, testing program, to run it: 
+
+$ cd build
+$ cmake ..
+$ make
+$ ./3dreconstructor
+
+It is coded to test the file img_0848.yml.
+
+The calibration parameters are the ones given by Nicolas Burrus. They depend on the camera used, but people from kinectdata.com do not give their calibration parameters. More info on the main.cpp
+
+- 
