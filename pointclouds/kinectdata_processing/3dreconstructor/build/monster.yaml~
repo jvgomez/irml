@@ -1,6 +1,0 @@
-# Center of table
-tableCenter: !!opencv-matrix
-   rows: 1
-   cols: 2
-   dt: f
-   data: [ 240,    240]
