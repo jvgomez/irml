@@ -17,8 +17,18 @@ $ cmake ..
 $ make
 $ ./3dreconstructor
 
-It is coded to test the file img_0848.yml.
+It is coded to test the file img_0848.yml
 
 The calibration parameters are the ones given by Nicolas Burrus. They depend on the camera used, but people from kinectdata.com do not give their calibration parameters. More info on the main.cpp
 
-- 
+- xmlreader: takes an xml with the objects information and fills a vector of Objects (self-defined struct with the coordinates of the bounding box and characteristics of the object).It is a basic, testing program, to run it: 
+
+$ cd build
+$ cmake ..
+$ make
+$ ./3dreconstructor
+It is coded to test the file img_0848.xml
+
+NOTE: due to the restrictive license of the CMarkup software, Markup.h and Markup.cpp are not included in the repository. Check the DEPENDENCIES section of this file to download it. It is easy to use, just include the .h and .cpp in the same folder as the main.cpp. The CMakeLists.txt file is ready to include it.
+
+
