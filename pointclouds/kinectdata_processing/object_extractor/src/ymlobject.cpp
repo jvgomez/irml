@@ -2,7 +2,10 @@
 
 #include <iostream>
 #include <fstream>
+#include <sstream>
 #include <cmath>
+
+#include "yaml-cpp/yaml.h"
 
 using namespace std;
 
@@ -26,7 +29,28 @@ void YmlObject::read() {
 	YAML::Parser parser(fin);
 	YAML::Node doc;
 	parser.GetNextDocument(doc);
-	doc["depth"] >> *this;
+	
+	//Not elegant but I cannot find unkown labels with yaml-cpp
+	if(const YAML::Node *foo = doc.FindValue("depth") ) {  //If not depth, it is something like kinect#_d with data in meters.
+		is_raw_ = 1;
+		*foo >> *this;
+	}
+	else {
+		is_raw_ = 0;
+		int kin_count = 0;
+		bool found = false;
+		 						
+		while (!found) { 		
+			stringstream label;											// kinect299_d is the highest label in img_0266.xml
+			label << "kinect" << kin_count << "_d";						//kinect0_d in img_0064.xml
+			if (const YAML::Node* bar = doc.FindValue(label.str())) {
+				*bar >> *this;
+				found = true;
+			}
+			else
+				kin_count++;	
+		}
+	}
 }
 
 
@@ -45,11 +69,15 @@ void YmlObject::getPointCloud(pcl::PointCloud<pcl::PointXYZ>& cloud, int xmin, i
 		for (int col = xmin; col <= xmax; ++col) { 
 			i = row*640 + col;
 			
-			//Conversion to meters
-			if (rawData_[i] < 2047) 
-				val = 0.1236 * tanf(rawData_[i] / 2842.5 + 1.1863);					// http://openkinect.org/wiki/Imaging_Information
+			if (is_raw_) {
+				//Conversion to meters
+				if (rawData_[i] < 2047) 
+					val = 0.1236 * tanf(rawData_[i] / 2842.5 + 1.1863);					// http://openkinect.org/wiki/Imaging_Information
+				else
+					val = 0;
+			}
 			else
-				val = 0;
+				val = rawData_[i];
 			
 			//Conversion to XYZ
 			cloud.points[index].x = (col - 339.30780975300314) * val / 594.21434211923247;   // http://nicolas.burrus.name/index.php/Research/KinectCalibration

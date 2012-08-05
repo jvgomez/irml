@@ -29,6 +29,7 @@ public:
 	int height_;
 	std::string path_;
 	std::vector<float> rawData_;
+	bool is_raw_; //1 means it needs conversion to meters. 0 means it does not need it.
 	
 };
 
