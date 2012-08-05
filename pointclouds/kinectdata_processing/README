@@ -7,6 +7,8 @@ DEPENDENCIES OF THIS FOLDER:
 
 + CMarkup: http://www.firstobject.com/dn_markup.htm To parse XML files.
 
++ BOOST Filesystem >1.46 (libboost-filesystem and libboost-filesystem-dev). Version used: 1.48.0.2
+
 
 FILES:
 
@@ -21,14 +23,38 @@ It is coded to test the file img_0848.yml
 
 The calibration parameters are the ones given by Nicolas Burrus. They depend on the camera used, but people from kinectdata.com do not give their calibration parameters. More info on the main.cpp
 
+----------------------------
+
 - xmlreader: takes an xml with the objects information and fills a vector of Objects (self-defined struct with the coordinates of the bounding box and characteristics of the object).It is a basic, testing program, to run it: 
 
 $ cd build
 $ cmake ..
 $ make
-$ ./3dreconstructor
+$ ./xmlparser
 It is coded to test the file img_0848.xml
 
 NOTE: due to the restrictive license of the CMarkup software, Markup.h and Markup.cpp are not included in the repository. Check the DEPENDENCIES section of this file to download it. It is easy to use, just include the .h and .cpp in the same folder as the main.cpp. The CMakeLists.txt file is ready to include it.
+
+----------------------------
+
+-objectextractor: gets a pcd file with every object segmented and an objects.txt file with the information of every pcd file.
+
+$ cd build
+$ cmake ..
+$ make
+$ ./3dobjext ~/Desktop/VOCB3DO/DepthData/ ~/Desktop/VOCB3DO/Annotations/
+
+The xml files (Annotations) and yml files (DepthData) are expected to be called exactly in the same way. If not, the program will fail.
+
+The folders build and output are mandatory. The program will fail if they are not created when running.
+
+NOTE: format of the objects.txt: number<tab>scene<tab>type_object<tab>occluded<tab>difficult
+example: 13	img_0123	bottle	1	0
+and it corresponds to: img_0123_13.pcd
+
+
+NOTE: due to the restrictive license of the CMarkup software, Markup.h and Markup.cpp are not included in the repository. Check the DEPENDENCIES section of this file to download it. It is easy to use, just include the .h and .cpp in the folders inc/ and src/ respectively. The CMakeLists.txt file is ready to include it.
+
+
 
 
