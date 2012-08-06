@@ -67,39 +67,48 @@ int main(int argc, char** argv) {
 			 * Point Cloud Processing and Segmentation
 			 * */
 			 
-			//Saving the object.
-			stringstream objname;
-			objname << "../output/" << name << "_" << setfill ('0') << setw(2) << count << ".pcd";
-			writer.write<pcl::PointXYZ> (objname.str(), cloud, true);
+			 
+			if(cloud.size() > 0) { 
+				//Saving the object.
+				stringstream objname;
+				objname << "../output/" << name << "_" << setfill ('0') << setw(2) << count << ".pcd";
+				writer.write<pcl::PointXYZ> (objname.str(), cloud, true);
 
-			//Logging into a textfile.
-			logger << count << "\t" << name << "\t" << it2->type << "\t" << it2->is_occluded << "\t" << it2->is_difficult << endl;
-			
-			//Saving into a grayscale image.
-				//Looking for depth range of the object.
-				float maxdepth = 0;  //Raw values.
-				float mindepth = 2047;
-			for(vector<ImgCoord>::iterator it = pixels.begin(); it != pixels.end(); ++it) {
-				if(it->depth_ > maxdepth)
-					maxdepth = it->depth_;
-				if(it->depth_ < mindepth)
-					mindepth = it->depth_;
-			}
+				//Logging into a textfile.
+				logger << count << "\t" << name << "\t" << it2->type << "\t" << it2->is_occluded << "\t" << it2->is_difficult << endl;
+				
+				//Saving into a grayscale image.
+					//Looking for depth range of the object.
+					float maxdepth = 0;  //Raw values.
+					float mindepth = 2047;
+				for(vector<ImgCoord>::iterator it = pixels.begin(); it != pixels.end(); ++it) {
+					if(it->depth_ > maxdepth)
+						maxdepth = it->depth_;
+					if(it->depth_ < mindepth)
+						mindepth = it->depth_;
+				}
 
-			Geometry imgsize(it2->xmax - it2->xmin + 1, it2->ymax - it2->ymin + 1);
-			Image gray(imgsize, "black");
-			gray.type( GrayscaleType );
-			
-			stringstream imgname;
-			imgname << "../output/images/" << name << "_" << setfill ('0') << setw(2) << count << ".png";
-				//Saving grayscale points in their corresponding pixels.
-			for(vector<ImgCoord>::iterator it = pixels.begin(); it != pixels.end(); ++it) {
-				int row = it->row_;
-				int col = it->col_;
-				//Scaling depths (linearly) to grays between 0.9 and 1 (to clearly difference between background, 0, and far objects, 0.9).
-				gray.pixelColor(col - it2->xmin ,row - it2->ymin, ColorGray(-0.9/(maxdepth-mindepth) * (it->depth_-mindepth) + 1));
+				Geometry imgsize(it2->xmax - it2->xmin + 1, it2->ymax - it2->ymin + 1);
+				Image gray(imgsize, "black");
+				gray.type( GrayscaleType );
+				
+				stringstream imgname;
+				imgname << "../output/images/" << name << "_" << setfill ('0') << setw(2) << count << ".png";
+					//Saving grayscale points in their corresponding pixels.
+				for(vector<ImgCoord>::iterator it = pixels.begin(); it != pixels.end(); ++it) {
+					int row = it->row_;
+					int col = it->col_;
+					//Scaling depths (linearly) to grays between 0.9 and 1 (to clearly difference between background, 0, and far objects, 0.9).
+					gray.pixelColor(col - it2->xmin ,row - it2->ymin, ColorGray(-0.9/(maxdepth-mindepth) * (it->depth_-mindepth) + 1));
+				}
+				gray.write(imgname.str());
 			}
-			gray.write(imgname.str());
+			else {
+				fstream logger2 ("../output/errors.txt", fstream::out | fstream::app);
+				logger2 << count << "\t" << name << "\t" << "No points" << endl;
+				logger2.close();
+			}
+			
 			
 			count++;
 		}
