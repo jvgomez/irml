@@ -1,1 +1,0 @@
-/home/jabuntu/irml/pointclouds/kinectdata_processing/object_extractor/build/CMakeFiles/3dobjext.dir
