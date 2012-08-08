@@ -10,7 +10,7 @@
 
 - cloudsLabeledHQ: objects segmented and labeled wihtout downsampling when processed.
 
-- full3ddatabase: labeled 3ds and off with two helper scripts. This database is the one used in the paper for 3D CAD models.
+- full3ddatabase: labeled 3ds and off with two helper scripts. This database is the one used in the paper for 3D CAD models. cmvd has the Compact Multi View Descriptor for every .off file.
 
 - unkonwnCloudsLabeled: same as before but for other objects not included in the database.
 
