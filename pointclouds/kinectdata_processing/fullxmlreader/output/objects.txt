@@ -1,0 +1,850 @@
+bookcase	calculator	mouse	keys	pen	ruler	scissors	table	
+calculator	calculator	mouse	pen	pen	ruler	scissors	scissors	stapler	table	tapedispenser	
+mouse	keys	pen	ruler	scissors	scissors	
+chair	magazine	pillow	
+magazine	
+can	sofa	
+lightswitch	lightswitch	
+magazine	magazine	
+bowl	
+bowl	table	
+lightswitch	
+doorhandle	
+bowl	bowl	bowl	cup	fork	spoon	table	table_knife	
+bowl	chair	cup	bowl	bowl	plate	fork	spoon	spoon	table	table_knife	
+bowl	bowl	chair	chair	cup	fork	spoon	spoon	spoon	table	table_knife	table_knife	
+can	desklamp	sofa	
+table	towel	
+doorhandle	
+bowl	
+doorhandle	
+towel	towel	
+poweroutlet	sock	
+sock	sock	
+sock	sock	
+desklamp	pillow	table	sofa	
+pillow	pillow	pillow	
+pillow	shirt	
+desklamp	pants	pillow	pillow	pillow	
+calculator	calculator	mouse	cup	pen	ruler	scissors	table	
+calculator	calculator	mouse	cup	keys	pen	pen	ruler	scissors	stapler	table	tapedispenser	trash_can	remote	
+bottle	bottle	bottle	bottle	medicine_bottle	medicine_bottle	medicine_box	
+bottle	medicine_bottle	medicine_bottle	towel	
+poweroutlet	medicine_bottle	medicine_bottle	poweroutlet	toothbrush	toothpaste	
+bottle	bottle	bottle	medicine_bottle	medicine_bottle	medicine_bottle	medicine_box	medicine_box	
+bottle	medicine_bottle	medicine_bottle	medicine_bottle	medicine_box	medicine_box	
+doorhandle	
+poweroutlet	toothbrush	toothbrush	
+eyeglasses	lightswitch	poweroutlet	
+soap	towel	towel	towel	
+can	towel	
+doorhandle	
+doorhandle	lightswitch	purse	table	wallet	
+purse	
+lightswitch	purse	table	
+doorhandle	lightswitch	purse	wallet	
+bowl	cabinet	purse	table	wallet	
+bowl	table	
+bowl	purse	
+purse	table	wallet	
+bowl	purse	table	
+bowl	cabinet	purse	
+eyeglasses	table	
+desklamp	doorhandle	poweroutlet	
+bottle	bottle	bottle	medicine_bottle	towel	
+bottle	bottle	bottle	medicine_bottle	toothpaste	
+bottle	bottle	
+doorhandle	poweroutlet	purse	table	
+poweroutlet	purse	
+bowl	chair	chair	cup	plate	headphones	laptop	spoon	table	
+plate	eyeglasses	container	table	
+eyeglasses	container	container	table	
+kleenex	laptop	monitor	remote	
+remote	
+book	book	book	book	book	book	book	book	bookcase	bookcase	chair	
+chair	chair	chair	table	sofa	
+bookcase	chair	monitor	
+chair	chair	monitor	shirt	
+chair	chair	chair	chair	chair	chair	table	sofa	
+book	chair	cup	cabinet	cabinet	keyboard	monitor	monitor	pen	ring_binder	table	
+book	mouse	cup	cup	keyboard	monitor	pen	pen	ring_binder	table	
+chair	chair	cup	cabinet	monitor	notebook	trash_can	trash_can	
+chair	chair	mouse	cabinet	cabinet	keyboard	magazine	monitor	poweroutlet	printer	stapler	
+book	cup	magazine	printer	stapler	stapler	
+book	bottle	mouse	cup	keyboard	monitor	table	
+book	mouse	mouse	keyboard	letter_tray	magazine	monitor	notebook	
+book	book	newspaper	printer	stapler	tapedispenser	
+chair	table	table	table	sofa	
+doorhandle	doorhandle	cabinet	
+chair	doorhandle	cabinet	printer	
+can	printer	trash_can	
+cup	pen	
+chair	mouse	headphones	keyboard	monitor	
+cup	headphones	keyboard	monitor	tapedispenser	
+chair	chair	chair	chair	monitor	printer	
+book	cup	cup	pen	notebook	ring_binder	table	
+book	cup	cup	magazine	notebook	ring_binder	
+bowl	mouse	cup	cup	cabinet	laptop	monitor	pen	pen	bowl	scissors	
+book	kleenex	table	
+mouse	cup	cabinet	cabinet	printer	
+book	cup	laptop	notebook	
+backpack	chair	chair	cup	cabinet	pen	printer	
+chair	chair	chair	chair	chair	cup	cabinet	cabinet	cabinet	laptop	monitor	monitor	printer	ring_binder	shirt	trash_can	trash_can	
+chair	lightswitch	poweroutlet	trash_can	
+bike	bike_helmet	chair	chair	doorhandle	cabinet	monitor	poweroutlet	
+mouse	monitor	monitor	
+headphones	monitor	
+book	book	mouse	keyboard	table	
+doorhandle	pen	poweroutlet	
+bottle	bottle	chair	chair	mouse	keyboard	monitor	monitor	bottle	bottle	
+bottle	bottle	bottle	chair	mouse	keyboard	monitor	monitor	table	
+bottle	chair	chair	chair	keyboard	monitor	monitor	
+bookcase	chair	mouse	keyboard	magazine	monitor	pen	
+bottle	chair	chair	keyboard	monitor	monitor	notebook	poweroutlet	table	
+bottle	bottle	eyeglasses	newspaper	notebook	pen	table	
+book	bottle	chair	mouse	cup	cabinet	laptop	monitor	pen	table	
+bottle	chair	mouse	cup	medicine_bottle	monitor	monitor	notebook	pen	stapler	
+book	bottle	mouse	cup	cabinet	keyboard	monitor	monitor	newspaper	purse	
+book	bottle	cup	cabinet	keyboard	monitor	newspaper	
+chair	mouse	cup	cabinet	keyboard	monitor	
+mouse	cup	cup	keyboard	monitor	notebook	notebook	ring_binder	ring_binder	
+book	can	can	can	can	chair	monitor	pen	pen	
+bottle	mouse	cup	plate	pen	pen	pen	monitor	table	
+bottle	mouse	cup	keyboard	monitor	table	
+bottle	chair	mouse	cup	keyboard	medicine_bottle	monitor	pen	
+book	chair	cup	cabinet	cup	headphones	keyboard	laptop	monitor	monitor	table	
+backpack	bottle	cup	cup	keyboard	monitor	monitor	pen	table	
+backpack	bike_helmet	book	chair	chair	chair	mouse	cup	keyboard	monitor	monitor	monitor	notebook	notebook	bottle	stapler	
+pen	pen	pen	poweroutlet	
+bike	chair	doorhandle	doorhandle	doorhandle	doorhandle	doorhandle	
+chair	cup	cup	cup	keyboard	monitor	pen	
+bottle	chair	monitor	table	
+cup	monitor	bottle	stapler	
+bike_helmet	mouse	cup	keyboard	monitor	monitor	notebook	table	
+chair	mouse	cup	cup	keyboard	monitor	monitor	notebook	table	
+chair	cup	cup	cabinet	cabinet	keyboard	monitor	poweroutlet	
+chair	mouse	cup	cup	cup	monitor	table	
+bottle	mouse	cup	keyboard	monitor	monitor	speaker	speaker	
+doorhandle	doorhandle	doorhandle	doorhandle	doorhandle	doorhandle	
+bottle	bottle	can	can	can	can	chair	cup	cabinet	monitor	poweroutlet	trash_can	
+chair	chair	chair	chair	chair	mouse	cup	cabinet	cabinet	cabinet	keyboard	monitor	monitor	monitor	monitor	monitor	
+backpack	chair	chair	chair	chair	cup	monitor	monitor	monitor	monitor	monitor	
+bottle	chair	cup	cabinet	monitor	monitor	monitor	pen	
+book	chair	monitor	table	
+monitor	cup	table	
+book	book	book	bottle	bottle	chair	mouse	cabinet	cabinet	keyboard	keyboard	monitor	monitor	monitor	notebook	table	
+bottle	bottle	cup	cup	cup	monitor	monitor	monitor	notebook	pen	table	
+bottle	chair	chair	mouse	cup	fork	keyboard	keyboard	monitor	monitor	
+bottle	cabinet	keyboard	monitor	notebook	
+book	book	book	book	book	cup	cup	notebook	
+book	can	mouse	monitor	monitor	bottle	table	
+book	book	book	bottle	mouse	keyboard	monitor	pen	poweroutlet	poweroutlet	poweroutlet	
+chair	chair	chair	chair	chair	monitor	monitor	poweroutlet	
+pen	pen	pen	
+bike	chair	doorhandle	trash_can	trash_can	trash_can	trash_can	
+monitor	
+bottle	cup	cup	monitor	spoon	
+book	bottle	cup	
+book	book	chair	cup	monitor	ring_binder	speaker	
+book	chair	cabinet	laptop	notebook	
+pen	pen	pen	
+book	chair	mouse	cabinet	keyboard	monitor	table	
+book	mouse	cup	cup	cup	monitor	pen	table	
+book	bottle	bottle	chair	chair	keyboard	monitor	poweroutlet	table	
+chair	cup	cup	notebook	
+book	book	bottle	mouse	cup	cabinet	magazine	pen	monitor	stapler	
+bill	bottle	cabinet	keyboard	
+chair	cup	keyboard	monitor	monitor	
+book	book	chair	chair	keyboard	keyboard	monitor	
+chair	mouse	cup	cabinet	keyboard	poweroutlet	
+backpack	book	chair	chair	chair	chair	cup	cup	doorhandle	keyboard	lightswitch	monitor	table	table	table	
+chair	mouse	cabinet	keyboard	monitor	monitor	printer	table	
+chair	cup	fork	spoon	table	
+book	cup	cup	monitor	notebook	pen	
+mouse	fork	keyboard	monitor	monitor	printer	table	trash_can	
+bike	chair	cabinet	monitor	monitor	trash_can	
+doorhandle	trash_can	
+bike	pen	pen	
+book	book	chair	fork	pen	table_knife	
+pen	pen	
+can	can	can	can	chair	chair	doorhandle	doorhandle	cabinet	monitor	table	trash_can	trash_can	trash_can	trash_can	
+doorhandle	phone	
+bookcase	cabinet	pen	pen	notebook	pen	phone	poweroutlet	
+headphones	keyboard	laptop	pen	
+mouse	cup	keyboard	magazine	pen	monitor	notebook	pen	phone	table	
+pen	pen	pen	
+mouse	cup	pen	pen	phone	
+headphones	keyboard	monitor	
+backpack	book	chair	mouse	keyboard	pen	monitor	poweroutlet	
+backpack	bookcase	chair	cabinet	monitor	phone	table	table	
+bottle	pen	pen	pen	phone	table	
+chair	mouse	keyboard	monitor	notebook	tapedispenser	
+eyeglasses	headphones	magazine	pen	
+book	book	bookcase	mouse	cup	cup	cup	cabinet	headphones	keyboard	monitor	pen	
+cabinet	headphones	pen	
+chair	chair	chair	chair	cup	monitor	pen	sofa	sofa	
+book	book	bookcase	chair	chair	cup	bookcase	table	
+mouse	keyboard	laptop	monitor	monitor	
+mouse	keyboard	laptop	monitor	monitor	pen	pen	pen	
+chair	chair	chair	lightswitch	table	sofa	
+kleenex	
+chair	mouse	headphones	keyboard	monitor	pen	table	
+book	mouse	cup	keyboard	lightswitch	monitor	pen	pen	phone	
+bike	doorhandle	
+doorhandle	pen	trash_can	
+book	bottle	bottle	chair	cup	bookcase	headphones	letter_tray	magazine	monitor	pen	phone	table	
+book	book	book	book	bookcase	notebook	notebook	notebook	speaker	speaker	
+headphones	keyboard	keyboard	kleenex	monitor	bottle	
+book	bottle	cup	cup	
+book	cup	lightswitch	table	
+doorhandle	
+book	bookcase	desklamp	cabinet	poweroutlet	
+book	book	bookcase	cabinet	notebook	pen	
+speaker	table	tapedispenser	
+can	chair	mouse	mouse	keyboard	monitor	trash_can	
+book	mouse	keyboard	magazine	pen	notebook	table	
+book	chair	headphones	kleenex	lightswitch	notebook	table	
+mouse	keyboard	laptop	monitor	pen	phone	
+bottle	can	mouse	cup	headphones	keyboard	pen	monitor	notebook	pen	speaker	speaker	
+bill	book	bookcase	bottle	chair	headphones	medicine_bottle	notebook	phone	table	
+cup	monitor	scissors	
+book	book	mouse	headphones	keyboard	monitor	monitor	notebook	table	
+book	medicine_bottle	table	
+book	book	book	desklamp	bookcase	notebook	
+bottle	chair	cup	cup	cup	laptop	monitor	notebook	pen	container	phone	scissors	table	towel	
+mouse	cabinet	keyboard	monitor	container	
+chair	mouse	cabinet	headphones	keyboard	kleenex	monitor	pen	container	phone	speaker	speaker	
+book	cup	headphones	keyboard	magazine	monitor	notebook	phone	poweroutlet	speaker	speaker	
+chair	mouse	headphones	monitor	notebook	speaker	table	
+book	book	cup	headphones	keyboard	magazine	magazine	notebook	table	
+bottle	can	can	mouse	mouse	cabinet	headphones	keyboard	monitor	pen	
+bottle	can	mouse	bookcase	headphones	monitor	table	tapedispenser	
+chair	mouse	headphones	monitor	phone	table	
+bookcase	chair	chair	chair	desklamp	keyboard	monitor	monitor	scissors	
+bowl	mouse	keyboard	monitor	monitor	
+chair	mouse	cup	headphones	keyboard	medicine_bottle	monitor	
+mouse	cup	desklamp	headphones	keyboard	monitor	notebook	speaker	table	table	
+bottle	bottle	bowl	poweroutlet	container	container	
+book	magazine	phone	
+lightswitch	ring_binder	
+chair	lightswitch	monitor	notebook	phone	poweroutlet	poweroutlet	printer	table	
+headphones	monitor	printer	speaker	table	
+chair	lightswitch	sofa	wallet	
+chair	chair	lightswitch	table	sofa	
+book	chair	bookcase	pen	monitor	phone	table	
+book	book	bookcase	mouse	headphones	keyboard	monitor	phone	
+book	book	bookcase	headphones	monitor	notebook	notebook	phone	table	
+mouse	headphones	laptop	laptop	monitor	phone	ring_binder	
+bookcase	chair	mouse	cabinet	letter_tray	monitor	notebook	
+bottle	chair	kleenex	pen	medicine_bottle	medicine_box	monitor	notebook	pen	speaker	speaker	stapler	table	
+headphones	laptop	monitor	phone	
+book	chair	mouse	cup	cup	keyboard	kleenex	monitor	pen	table	
+bill	chair	mouse	cup	keyboard	monitor	pen	table	trash_can	
+book	chair	chair	cup	keyboard	monitor	monitor	notebook	pen	
+can	chair	headphones	headphones	laptop	monitor	table	
+bookcase	chair	cabinet	pen	monitor	pen	phone	phone	
+sofa	
+cup	pen	phone	table	
+chair	pen	monitor	tapedispenser	
+chair	chair	kleenex	pen	pen	pen	pen	phone	table	table	tapedispenser	
+lightswitch	
+bike	doorhandle	
+mouse	cup	keyboard	monitor	
+cup	monitor	scissors	
+lightswitch	
+bottle	bottle	cabinet	keyboard	laptop	monitor	poweroutlet	table	
+bowl	bowl	bowl	cup	cup	cup	plate	plate	cabinet	keyboard	scissors	table	
+bottle	bowl	bowl	plate	keyboard	kleenex	poweroutlet	
+cup	poweroutlet	bowl	scissors	
+lightswitch	
+book	bookcase	letter_tray	notebook	
+bookcase	stapler	
+letter_tray	printer	
+pen	printer	
+mouse	mouse	cup	desklamp	keyboard	keyboard	monitor	pen	pen	scissors	table	
+book	bookcase	bottle	headphones	keyboard	container	
+doorhandle	sofa	
+chair	cup	plate	doorhandle	kleenex	
+bowl	bowl	bowl	cup	magazine	pen	medicine_bottle	pen	pillow	container	speaker	table	remote	sofa	
+cup	
+cup	monitor	
+bookcase	poweroutlet	poweroutlet	table	
+table	remote	
+chair	sofa	sofa	
+book	bookcase	chair	chair	chair	table	
+chair	chair	sofa	
+cup	
+cup	cabinet	
+bowl	bowl	cup	bowl	bowl	magazine	medicine_bottle	mobile_phone	monitor	pen	pillow	table	remote	sofa	
+chair	cup	lightswitch	table	sofa	sofa	
+bowl	bowl	can	bowl	glass	magazine	pillow	table	remote	sofa	
+backpack	book	chair	cup	magazine	table	sofa	
+book	book	chair	cup	lightswitch	magazine	
+can	glass	cup	pillow	container	bowl	bowl	bowl	printer	table	table	remote	sofa	
+book	book	book	bowl	bowl	bowl	chair	cup	bowl	glass	lightswitch	magazine	pillow	table	table	table_knife	remote	sofa	
+book	book	chair	mouse	glass	glass	magazine	monitor	pen	speaker	speaker	stapler	table	
+book	bookcase	bookcase	scissors	
+doorhandle	doorhandle	medicine_bottle	shoe	sofa	sofa	
+book	book	bottle	chair	desklamp	cabinet	glass	glass	letter_tray	monitor	speaker	speaker	
+book	book	book	mouse	glass	headphones	monitor	pen	speaker	stapler	
+keys	pillow	
+chair	mouse	letter_tray	monitor	pen	speaker	speaker	stapler	trash_can	
+book	bottle	desklamp	notebook	pillow	purse	table	sofa	
+bottle	doorhandle	eyeglasses	pants	shirt	shoe	sofa	
+book	book	book	book	book	book	doorhandle	doorhandle	doorhandle	bookcase	table	sofa	
+backpack	mobile_phone	pillow	purse	
+backpack	mobile_phone	pillow	
+book	book	book	bookcase	
+bookcase	keys	pen	pen	notebook	
+bottle	chair	chair	chair	laptop	monitor	table	
+cup	glass	glass	container	container	container	
+bottle	bottle	bottle	bottle	bottle	container	container	
+cup	cup	cup	cup	bowl	cup	cup	cup	cup	cup	plate	plate	glass	glass	
+bowl	cup	plate	glass	towel	
+cup	cup	cup	cup	plate	plate	glass	glass	
+glass	towel	
+plate	fork	spoon	table_knife	
+plate	plate	
+can	cup	plate	table_knife	
+bowl	cup	plate	plate	fork	glass	kleenex	table_knife	
+bottle	chair	chair	table	
+doorhandle	
+plate	
+book	bottle	chair	chair	chair	chair	doorhandle	magazine	table	
+book	chair	chair	chair	chair	chair	doorhandle	magazine	newspaper	notebook	table	
+book	chair	kleenex	magazine	
+cup	doorhandle	notebook	pen	towel	
+book	chair	doorhandle	shoe	sofa	
+book	bowl	pen	
+doorhandle	
+bike	bottle	chair	chair	doorhandle	table	
+chair	chair	chair	sofa	
+bottle	plate	plate	toothbrush	
+container	
+bike	
+doorhandle	doorhandle	shoe	
+doorhandle	lightswitch	
+bike	
+book	letter_tray	magazine	notebook	table	shoe	
+doorhandle	
+doorhandle	shoe	
+backpack	bike_helmet	notebook	table	
+book	bowl	chair	cup	cabinet	magazine	monitor	notebook	pillow	container	table	sofa	
+pants	
+shirt	
+mouse	monitor	pen	
+bottle	bottle	bowl	chair	chair	chair	cup	fork	mobile_phone	spoon	
+bowl	chair	chair	chair	cup	plate	pen	phone	spoon	table	
+book	bottle	bottle	bottle	bowl	chair	chair	cup	desklamp	bowl	glass	lightswitch	pen	
+bottle	chair	chair	chair	desklamp	laptop	
+bottle	bottle	bowl	plate	lightswitch	poweroutlet	soap	
+bowl	bowl	
+towel	towel	
+toothbrush	toothpaste	
+bottle	kleenex	soap	towel	towel	
+calculator	remote	sofa	
+calculator	table	sofa	
+book	eyeglasses	eyeglasses	eyeglasses	eyeglasses	mail	table	table	sofa	
+book	eyeglasses	eyeglasses	eyeglasses	eyeglasses	table	remote	sofa	
+chair	eyeglasses	eyeglasses	eyeglasses	eyeglasses	pen	table	sofa	
+keys	keys	mail	table	sofa	
+bill	book	keys	keys	sofa	
+mobile_phone	phone	phone	phone	phone	table	sofa	
+keys	mobile_phone	mobile_phone	mobile_phone	mobile_phone	phone	phone	phone	phone	table	table	sofa	
+mail	pen	scissors	table	sofa	
+bowl	plate	mail	remote	sofa	
+mail	scissors	table	table	sofa	
+scissors	table	table	sofa	
+bill	book	bowl	plate	container	table	sofa	
+book	container	table	sofa	
+book	table	toothbrush	toothbrush	toothpaste	sofa	
+mail	table	table	toothbrush	toothbrush	toothpaste	sofa	
+bottle	chair	medicine_bottle	medicine_bottle	remote	shoe	sofa	
+book	bottle	chair	table	sofa	
+book	book	chair	medicine_box	medicine_box	notebook	table	sofa	
+book	table	table	sofa	
+bowl	plate	sofa	
+chair	table	remote	sofa	
+book	chair	mail	table	remote	
+book	chair	notebook	table	shoe	shoe	shoe	shoe	sofa	
+book	book	chair	table	shoe	sofa	
+book	bowl	table	table	sofa	
+bowl	table	table	sofa	
+bowl	bowl	bowl	table	table	sofa	
+calculator	table	table	remote	sofa	
+calculator	pen	
+book	calculator	sofa	
+book	pillow	pillow	remote	sofa	
+cabinet	table	remote	
+book	bowl	bowl	can	
+chair	mouse	wristwatch	
+doorhandle	table	wristwatch	
+cup	lightswitch	poweroutlet	
+hair_brush	soap	toothbrush	toothpaste	
+bottle	bottle	bottle	cup	table_knife	
+cup	plate	shirt	spoon	
+keyboard	monitor	table	
+bowl	bowl	calculator	chair	chair	chair	chair	chair	pen	table	
+cup	fork	poweroutlet	spoon	
+chair	doorhandle	keyboard	monitor	
+cup	plate	fork	spoon	
+speaker	
+bottle	bottle	medicine_bottle	towel	
+keys	phone	
+mouse	keyboard	monitor	speaker	
+mobile_phone	phone	scissors	spoon	
+bottle	bowl	bowl	bowl	bowl	bowl	
+bike	shirt	
+mouse	monitor	wristwatch	
+hair_brush	toothbrush	remote	
+bike_helmet	bottle	chair	plate	sofa	
+book	bottle	bowl	bowl	
+mobile_phone	phone	purse	wallet	
+bottle	remote	sofa	
+chair	purse	purse	wallet	
+book	bowl	can	magazine	
+book	cup	table	
+plate	keys	kleenex	table	
+shoe	shoe	
+towel	shoe	
+bowl	cup	toothbrush	toothbrush	
+bottle	bottle	toothbrush	
+bottle	keyboard	monitor	monitor	pen	phone	phone	speaker	
+phone	speaker	remote	
+chair	chair	chair	mouse	cup	laptop	laptop	monitor	monitor	phone	table	
+chair	table	
+mouse	monitor	notebook	phone	
+mouse	mouse	keyboard	laptop	monitor	monitor	notebook	pen	
+bottle	mouse	keys	keyboard	phone	speaker	
+bottle	chair	keyboard	phone	
+phone	speaker	remote	
+mouse	cup	cabinet	headphones	keyboard	laptop	monitor	table	
+bottle	keyboard	monitor	notebook	pen	phone	speaker	remote	
+bottle	mouse	keyboard	phone	purse	
+chair	chair	mouse	pants	wristwatch	
+chair	monitor	phone	speaker	speaker	speaker	
+bottle	mouse	cabinet	keyboard	monitor	notebook	pen	phone	
+chair	sofa	
+bottle	mouse	keyboard	monitor	phone	purse	speaker	wallet	
+bottle	chair	coin	cup	pen	phone	table	
+chair	chair	chair	chair	chair	mouse	cup	cup	glass	phone	table	
+bottle	mouse	keyboard	mail	monitor	monitor	pen	phone	purse	speaker	
+laptop	mobile_phone	monitor	notebook	pen	
+bottle	bottle	cup	keys	pen	monitor	pen	phone	purse	speaker	table	
+cup	container	phone	table	
+chair	chair	cabinet	cabinet	
+bottle	keyboard	laptop	monitor	pen	
+book	cup	monitor	notebook	table	
+backpack	cup	
+chair	mouse	cup	table	table	towel	
+keys	keyboard	laptop	pen	monitor	purse	speaker	wallet	
+chair	chair	chair	chair	chair	mouse	cup	monitor	monitor	phone	
+bookcase	chair	mouse	keyboard	monitor	speaker	
+eyeglasses	keys	keys	keyboard	monitor	table	
+lightswitch	
+bottle	bottle	hair_brush	toothbrush	
+mouse	keyboard	monitor	poweroutlet	printer	speaker	table	
+bike	bottle	bowl	bowl	plate	spoon	
+bottle	bottle	toothpaste	
+hair_brush	toothbrush	
+notebook	phone	table	
+bottle	medicine_bottle	medicine_box	table	
+cup	
+mobile_phone	mobile_phone	phone	phone	table	
+monitor	remote	
+fork	table_knife	
+eyeglasses	
+monitor	table	
+bottle	lightswitch	
+purse	remote	wallet	
+chair	eyeglasses	keys	keyboard	monitor	
+shoe	shoe	shoe	shoe	
+shoe	shoe	
+shoe	shoe	
+shoe	shoe	
+shoe	
+shoe	shoe	
+shoe	shoe	shoe	shoe	shoe	
+poweroutlet	shoe	shoe	shoe	
+bottle	bottle	bottle	kleenex	medicine_bottle	towel	
+bottle	towel	trash_can	
+toothpaste	
+bottle	doorhandle	soap	towel	trash_can	
+toothbrush	toothpaste	
+bottle	bottle	medicine_bottle	towel	
+doorhandle	soap	toothbrush	toothpaste	trash_can	
+towel	
+soap	toothpaste	
+table	trash_can	
+bottle	bowl	cup	cup	cup	cup	cup	container	
+bottle	bowl	cup	container	
+bowl	bowl	cup	glass	container	
+bowl	cup	cup	container	
+bottle	bowl	bowl	cup	cup	cup	plate	container	
+bottle	bottle	bottle	bowl	bowl	cup	cup	cup	bowl	plate	
+bowl	cup	cup	cup	cup	container	
+bowl	bowl	bowl	poweroutlet	
+bowl	bowl	plate	bowl	plate	bowl	
+table	trash_can	trash_can	
+table	trash_can	trash_can	
+book	bottle	magazine	medicine_bottle	table	
+book	chair	lightswitch	magazine	table	
+chair	lightswitch	table	
+book	lightswitch	magazine	notebook	table	
+book	chair	lightswitch	magazine	table	trash_can	
+bowl	glass	doorhandle	doorhandle	spoon	
+book	magazine	sofa	
+bookcase	chair	
+bookcase	chair	magazine	pillow	sofa	sofa	
+backpack	
+backpack	sofa	
+backpack	
+book	monitor	remote	
+book	book	monitor	remote	
+book	monitor	remote	
+book	ring_binder	table	remote	
+book	monitor	table	remote	
+magazine	sofa	
+chair	glass	bowl	plate	doorhandle	lightswitch	table	
+bowl	chair	plate	doorhandle	fork	glass	lightswitch	spoon	table	
+bowl	chair	plate	fork	glass	spoon	table	
+bowl	chair	chair	plate	fork	glass	spoon	table	
+book	bookcase	chair	mouse	cup	pen	table	
+stapler	table	
+stapler	
+chair	pen	stapler	
+purse	table	wallet	
+table	wristwatch	
+book	magazine	table	
+table	wristwatch	
+kleenex	toothbrush	toothpaste	
+kleenex	toothbrush	toothpaste	
+bowl	kleenex	toothbrush	toothpaste	
+kleenex	toothbrush	toothpaste	
+kleenex	toothbrush	toothpaste	
+mouse	laptop	pen	stapler	table	
+mouse	keyboard	laptop	monitor	pen	wristwatch	
+mouse	laptop	pen	poweroutlet	
+mouse	mouse	laptop	lightswitch	pen	table	
+mouse	keyboard	laptop	lightswitch	pen	table	
+mouse	keyboard	laptop	monitor	pen	table	
+mouse	laptop	lightswitch	monitor	pen	stapler	table	wristwatch	
+laptop	monitor	pen	table	
+bottle	poweroutlet	soap	toothbrush	toothpaste	towel	
+toothbrush	toothpaste	
+bottle	soap	toothbrush	toothpaste	towel	
+book	chair	mouse	keys	laptop	mobile_phone	notebook	pen	phone	ring_binder	ruler	scissors	table	tapedispenser	wristwatch	
+book	keys	keyboard	laptop	mobile_phone	notebook	pen	phone	table	
+book	keys	keyboard	laptop	mobile_phone	monitor	notebook	pen	table	
+laptop	monitor	pen	ruler	scissors	tapedispenser	
+laptop	ruler	scissors	tapedispenser	
+mouse	keys	keyboard	laptop	mobile_phone	pen	phone	ruler	scissors	table	tapedispenser	
+mouse	keys	keyboard	laptop	mobile_phone	notebook	pen	phone	ruler	table	tapedispenser	wristwatch	
+keys	laptop	mobile_phone	pen	ruler	scissors	table	
+book	book	bookcase	chair	lightswitch	pillow	sofa	sofa	
+book	book	book	book	bookcase	chair	sofa	
+calculator	mouse	keys	keyboard	monitor	speaker	speaker	table	
+book	book	bottle	bottle	laptop	notebook	table	remote	remote	sofa	
+book	bottle	kleenex	laptop	pillow	towel	sofa	
+chair	chair	cup	plate	laptop	pillow	table_knife	sofa	
+book	book	book	book	book	book	book	book	book	book	bookcase	
+book	book	book	book	book	book	bookcase	bookcase	chair	chair	pillow	pillow	
+chair	mouse	keyboard	monitor	pen	poweroutlet	speaker	speaker	table	
+calculator	mouse	keys	keyboard	mobile_phone	monitor	pen	speaker	speaker	table	
+calculator	chair	mouse	keyboard	monitor	speaker	speaker	table	
+backpack	book	bookcase	chair	chair	cup	plate	laptop	table	table_knife	
+backpack	book	book	bookcase	bookcase	chair	chair	cup	plate	lightswitch	table	table_knife	
+chair	monitor	notebook	pillow	sofa	sofa	
+book	bottle	chair	laptop	pillow	table	sofa	
+backpack	can	chair	glass	doorhandle	cabinet	poweroutlet	table	
+book	book	book	book	book	bookcase	
+book	book	bookcase	trash_can	
+book	credit_card	table	wallet	
+bill	book	doorhandle	wallet	
+book	bottle	credit_card	doorhandle	lightswitch	
+book	headphones	pants	shirt	shirt	
+backpack	book	book	headphones	
+backpack	bike_helmet	shoe	
+bike_helmet	book	book	doorhandle	notebook	pillow	shirt	shoe	
+backpack	bill	chair	cup	doorhandle	cabinet	mail	pen	table	
+backpack	book	book	chair	cup	cabinet	mail	notebook	pen	pen	speaker	speaker	table	trash_can	
+bike_helmet	chair	doorhandle	
+backpack	bike_helmet	book	chair	doorhandle	headphones	lightswitch	
+book	bottle	can	medicine_box	purse	table	wallet	
+pillow	
+book	pillow	pillow	
+pillow	pillow	
+desklamp	pillow	pillow	
+bill	can	cup	doorhandle	mail	notebook	
+bill	cup	mail	pen	speaker	speaker	table	
+backpack	book	notebook	notebook	
+backpack	book	chair	cup	cabinet	magazine	notebook	pen	
+bookcase	pants	notebook	ring_binder	shirt	
+book	book	bookcase	
+book	bookcase	magazine	
+chair	desklamp	monitor	pen	table	
+desklamp	
+cabinet	newspaper	
+bottle	cup	plate	soap	toothbrush	toothpaste	towel	
+bottle	cup	towel	
+bottle	towel	
+bottle	
+soap	toothbrush	toothpaste	
+soap	towel	
+bottle	bottle	bottle	towel	
+bottle	towel	
+pillow	
+cabinet	
+book	book	book	bookcase	
+mouse	cup	headphones	keyboard	monitor	remote	
+cup	headphones	keyboard	monitor	pen	remote	
+mouse	keyboard	monitor	pen	
+bill	mouse	headphones	keyboard	pen	remote	
+cup	keyboard	notebook	table	remote	
+cup	notebook	pen	
+cup	monitor	pen	
+mobile_phone	pen	pen	pen	phone	table	
+desklamp	mobile_phone	pen	pen	pen	phone	
+pen	mobile_phone	pen	
+bookcase	notebook	table	
+bookcase	magazine	newspaper	notebook	table	
+doorhandle	cabinet	notebook	table	
+keyboard	notebook	pen	table	
+desklamp	notebook	pen	table	
+chair	desklamp	
+chair	mouse	keyboard	
+book	book	chair	computer_mouse	keyboard	monitor	
+keyboard	marker	mobile_phone	monitor	pen_or_pencil	pen_or_pencil	pen_or_pencil	pen_or_pencil	pen_or_pencil	pen_or_pencil	pen_or_pencil	pen_or_pencil	pen_or_pencil	phone	poweroutlet	table	
+keyboard	marker	pen_or_pencil	pen_or_pencil	table	
+book	keyboard	monitor	pen_or_pencil	ring_binder	table	
+book	paper_notebook	ring_binder	
+chair	cup	mail	table	
+computer_mouse	cup	keyboard	monitor	paper_notebook	pen_or_pencil	phone	poweroutlet	table	trash_can	
+book	computer_mouse	cup	keyboard	mobile_phone	table	
+computer_mouse	cup	keyboard	monitor	pen_or_pencil	table	
+headphones	keyboard	mobile_phone	monitor	pen_or_pencil	pen_or_pencil	phone	
+chair	cup	monitor	poweroutlet	scissors	
+chair	poweroutlet	poweroutlet	poweroutlet	table	
+chair	poweroutlet	table	
+chair	poweroutlet	poweroutlet	table	
+chair	table	sofa	sofa	
+chair	chair	table	
+bottle	cup	dish_or_plate	mobile_phone	phone	poweroutlet	table_knife	
+bowl	cup	cup	cup	cup	dish_or_plate	mobile_phone	phone	poweroutlet	
+bill	cup	cup	dish_or_plate	table	
+chair	chair	dish_or_plate	table	
+bowl	bowl	bowl	chair	dish_or_plate	dish_or_plate	dish_or_plate	table	
+bowl	bowl	bowl	chair	cup	cup	dish_or_plate	dish_or_plate	dish_or_plate	table	
+chair	chair	dish_or_plate	dish_or_plate	dish_or_plate	table	
+bowl	chair	dish_or_plate	dish_or_plate	dish_or_plate	table	
+glasses	table	
+door_handle	lightswitch	
+door_handle	
+book	book	cup	cup	cup	pillow	sofa	
+book	book	chair	cup	cup	cup	paper_notebook	sofa	
+chair	cup	poweroutlet	
+chair	chair	chair	cup	table	
+chair	cup	poweroutlet	
+chair	chair	chair	cup	table	
+book	book	chair	letter_tray	magazine	pillow	sofa	
+chair	cup	table	
+chair	chair	cup	cup	cup	table	
+door_handle	poweroutlet	
+door_handle	poweroutlet	
+book	chair	pillow	pillow	table	sofa	
+book	chair	chair	desk_lamp	lightswitch	lightswitch	pillow	pillow	table	sofa	
+book	book	book	chair	magazine	paper_notebook	paper_notebook	pillow	pillow	pillow	sofa	
+chair	lightswitch	pillow	pillow	poweroutlet	table	sofa	sofa	
+chair	chair	chair	chair	lightswitch	table	
+chair	chair	lightswitch	poweroutlet	table	sofa	
+poweroutlet	
+chair	chair	table	
+door_handle	shoe_or_sandal	
+door_handle	
+book	chair	chair	door_handle	laptop_computer	magazine	paper_notebook	table	towel	
+book	chair	chair	laptop_computer	monitor	
+chair	table	
+book	chair	coin	door_handle	laptop_computer	magazine	printer	table	
+book	chair	chair	coin	magazine	paper_notebook	pillow	pillow	table	sofa	
+book	chair	pillow	pillow	table	tv_remote	sofa	
+laptop_computer	monitor	speaker	table	
+book	monitor	speaker	speaker	table	
+book	magazine	printer	
+monitor	table	
+table	
+paper_notebook	table	table_knife	
+book	cup	newspaper	paper_notebook	pen_or_pencil	pillow	table	table_knife	tv_remote	tv_remote	sofa	
+book	chair	coin	door_handle	laptop_computer	printer	table	
+bottle	cup	glasses	plastic_food_container	
+can	door_handle	file_cabinet	glasses	
+door_handle	door_handle	paper_notebook	table	
+chair	pillow	sofa	
+chair	pillow	shirt	towel	sofa	
+chair	magazine	pillow	pillow	sofa	
+bottle	laptop_computer	pillow	
+bottle	cup	desk_lamp	letter_tray	lightswitch	paper_notebook	pillow	poweroutlet	table	
+back_pack	book	calculator	desk_lamp	poweroutlet	towel	
+bookcase	desk_lamp	
+book	bottle	file_cabinet	
+back_pack	mail	towel	
+book	keys	paper_notebook	speaker	table	
+chair	keys	phone	speaker	speaker	table	
+chair	file_cabinet	paper_notebook	table	trash_can	
+chair	keys	table	
+book	chair	keys	letter_tray	mobile_phone	phone	speaker	table	
+pillow	pillow	
+bottle	cup	door_handle	hair_brush	pillow	table	
+book	desk_lamp	desk_lamp	paper_notebook	poweroutlet	shirt	
+bookcase	desk_lamp	paper_notebook	poweroutlet	shirt	
+book	desk_lamp	paper_notebook	paper_notebook	shirt	
+chair	poweroutlet	speaker	table	trash_can	
+back_pack	chair	file_cabinet	paper_notebook	speaker	speaker	table	
+door_handle	door_handle	door_handle	newspaper	towel	
+door_handle	towel	
+lightswitch	
+back_pack	door_handle	
+back_pack	door_handle	
+laptop_computer	monitor	trash_can	
+poweroutlet	
+can	poweroutlet	
+bottle	towel	
+bowl	dish_or_plate	
+bowl	dish_or_plate	towel	
+bottle	door_handle	plastic_food_container	
+bottle	bottle	
+bottle	bottle	door_handle	door_handle	poweroutlet	
+bottle	bowl	cup	cup	lightswitch	poweroutlet	
+bottle	bowl	bowl	cup	cup	dish_or_plate	soap	
+bottle	bowl	cup	dish_or_plate	
+laptop_computer	monitor	plastic_food_container	poweroutlet	
+bottle	door_handle	plastic_food_container	poweroutlet	
+poweroutlet	
+poweroutlet	
+medicine_bottle	plastic_food_container	
+bottle	bowl	dish_or_plate	
+bottle	bottle	chair	cup	cup	dish_or_plate	
+book	cup	door_handle	trash_can	
+book	paper_notebook	table	
+book	door_handle	glasses	paper_notebook	
+chair	laptop_computer	monitor	speaker	table	
+door_handle	shoe_or_sandal	
+door_handle	shoe_or_sandal	
+towel	
+bottle	bottle	bottle	towel	
+monitor	poweroutlet	table	tv_remote	
+book	laptop_computer	paper_notebook	pillow	
+book	pillow	pillow	
+magazine	
+door_handle	shirt	trash_can	shoe_or_sandal	
+chair	table	
+chair	speaker	speaker	
+bookcase	bookcase	file_cabinet	pillow	
+pillow	pillow	
+bottle	chair	medicine_bottle	shirt	sock	
+bottle	chair	pillow	shirt	
+computer_mouse	desk_lamp	file_cabinet	glasses	laptop_computer	marker	monitor	pen_or_pencil	pen_or_pencil	speaker	speaker	table	
+pillow	printer	table	
+bookcase	pillow	pillow	printer	
+book	bookcase	bookcase	file_cabinet	paper_notebook	paper_notebook	poweroutlet	
+table_knife	
+bottle	table_knife	
+bowl	spoon	
+bowl	spoon	
+bowl	plastic_food_container	
+bowl	door_handle	door_handle	spoon	
+bowl	spoon	
+bowl	dish_or_plate	poweroutlet	
+bowl	cup	plastic_food_container	table_knife	
+door_handle	lightswitch	poweroutlet	
+chair	laptop_computer	table	
+bottle	laptop_computer	
+mobile_phone	phone	
+bottle	dish_or_plate	mobile_phone	phone	phone	
+mobile_phone	phone	
+bowl	file_cabinet	
+bottle	
+mobile_phone	phone	printer	
+bowl	can	cup	fork	laptop_computer	laptop_computer	table	
+bottle	bowl	chair	cup	fork	laptop_computer	laptop_computer	table	trash_can	
+poweroutlet	
+book	paper_notebook	pillow	scissors	shirt	table	shoe_or_sandal	sofa	
+pillow	poweroutlet	
+book	kleenex	paper_notebook	pillow	pillow	scissors	shirt	stapler	table	shoe_or_sandal	sofa	
+book	bottle	sofa	
+poweroutlet	
+book	credit_card	mobile_phone	paper_notebook	pillow	pillow	scissors	stapler	table	sofa	
+book	kleenex	paper_notebook	pillow	pillow	scissors	table	
+book	shirt	table	tv_remote	sofa	
+cup	monitor	pillow	plastic_food_container	table	tv_remote	sofa	
+monitor	
+bottle	pants	paper_notebook	shirt	
+book	door_handle	door_handle	door_handle	paper_notebook	table	towel	
+kleenex	pillow	table	
+back_pack	bill	book	bookcase	bottle	bottle	can	chair	mail	medicine_bottle	medicine_bottle	speaker	
+bottle	laptop_computer	medicine_bottle	medicine_bottle	paper_notebook	speaker	table	
+book	bookcase	bottle	bottle	bottle	door_handle	medicine_bottle	medicine_bottle	paper_notebook	
+door_handle	
+desk_lamp	pillow	pillow	table	sofa	
+book	book	chair	computer_mouse	laptop_computer	magazine	pen_or_pencil	scissors	table	tape_dispenser	
+book	book	chair	marker	newspaper	paper_notebook	pen_or_pencil	printer	
+bottle	chair	desk_lamp	pillow	table	trash_can	
+pillow	towel	
+back_pack	bowl	paper_notebook	plastic_food_container	shoe_or_sandal	
+book	bottle	chair	desk_lamp	paper_notebook	scissors	
+bottle	bottle	door_handle	poweroutlet	soap	toothbrush	towel	trash_can	
+soap	toothbrush	towel	
+bottle	cup	soap	toothbrush	toothpaste	
+bottle	bottle	cup	glasses	soap	toothbrush	toothpaste	
+pillow	pillow	pillow	pillow	table	sofa	
+book	book	book	book	book	book	book	bookcase	magazine	magazine	
+bottle	chair	chair	chair	door_handle	laptop_computer	medicine_bottle	monitor	shirt	table	table	
+book	chair	magazine	paper_notebook	table	
+bottle	bottle	bottle	bowl	cup	door_handle	door_handle	door_handle	lightswitch	medicine_bottle	table_knife	
+door_handle	door_handle	door_handle	
+bottle	can	kleenex	poweroutlet	
+bottle	bottle	bottle	bowl	chair	table	
+book	book	bottle	bowl	chair	chair	chair	chair	chair	chair	magazine	magazine	table	
+book	bottle	bottle	chair	chair	chair	chair	chair	chair	keyboard	laptop_computer	
+dish_or_plate	
+dish_or_plate	trash_can	
+bottle	bottle	hair_brush	toothbrush	trash_can	
+bottle	door_handle	hair_brush	stapler	toothbrush	
+bowl	bowl	chair	chair	desk_lamp	glasses	laptop_computer	paper_notebook	spoon	table	
+cup	dish_or_plate	door_handle	lightswitch	soap	towel	
+bowl	bowl	chair	chair	desk_lamp	glasses	laptop_computer	lightswitch	lighter	table	
+cup	door_handle	lightswitch	medicine_bottle	
+bottle	bottle	bottle	bottle	bottle	bottle	bottle	door_handle	medicine_bottle	spoon	
+bottle	bowl	chair	cup	medicine_bottle	paper_notebook	table	tv_remote	sofa	
+book	bowl	chair	magazine	marker	medicine_bottle	medicine_box	paper_notebook	spoon	table	tv_remote	sofa	
+book	book	paper_notebook	sofa	
+chair	chair	pillow	
+bottle	bottle	bottle	door_handle	
+bottle	dish_or_plate	door_handle	door_handle	door_handle	door_handle	poweroutlet	
+dish_or_plate	towel	
+bottle	wallet	
+bottle	bottle	bottle	bottle	
+can	door_handle	lightswitch	
+book	book	paper_notebook	
+book	bottle	bowl	chair	desk_lamp	lightswitch	magazine	medicine_bottle	table	tv_remote	
+bowl	lightswitch	pillow	table	
+cup	cup	kleenex	poweroutlet	table	
+bottle	pillow	
+door_handle	lightswitch	
+shirt	shirt	table	
+door_handle	glasses	hair_brush	medicine_bottle	
+bottle	bottle	hair_brush	
+cup	plastic_food_container	sofa	
+book	chair	pants	
+chair	table	
+bowl	chair	cup	cup	marker	pen_or_pencil	table	
+door_handle	lightswitch	
+book	chair	paper_notebook	table	
+book	chair	keyboard	magazine	paper_notebook	
+book	bowl	cup	glasses	magazine	marker	paper_notebook	pen_or_pencil	
+book	paper_notebook	
+lightswitch	poweroutlet	poweroutlet	
+laptop_computer	lightswitch	
+book	laptop_computer	monitor	
+can	cup	
+back_pack	book	dish_or_plate	keyboard	magazine	paper_notebook	
+

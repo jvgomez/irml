@@ -1,5 +1,7 @@
 Programs to process the kinectdata.com database.
 
+I (Javier V. Gómez) acknowledge that the programming style is not good in many things. But this is just a proof of concept. Once the programm is finished, I will probably improce the OO design and implementation style.
+
 
 DEPENDENCIES OF THIS FOLDER:
 
@@ -8,6 +10,9 @@ DEPENDENCIES OF THIS FOLDER:
 + CMarkup: http://www.firstobject.com/dn_markup.htm To parse XML files.
 
 + BOOST Filesystem >1.46 (libboost-filesystem and libboost-filesystem-dev). Version used: 1.48.0.2
+
++ Magick++: http://www.imagemagick.org/Magick++/ 
+
 
 
 FILES:
@@ -37,7 +42,17 @@ NOTE: due to the restrictive license of the CMarkup software, Markup.h and Marku
 
 ----------------------------
 
--objectextractor: gets a pcd file with every object segmented and an objects.txt file with the information of every pcd file.
+- fullxmlreader: reads all the xml and generates a txt file in output/ which contanins all the objects
+for every scene.
+
+$ cd build
+$ cmake ..
+$ make
+$ ./xmlparser <path_to_xml_folder>
+
+----------------------------
+
+- objectextractor: gets a pcd file with every object segmented and an objects.txt file with the information of every pcd file.
 
 $ cd build
 $ cmake ..
