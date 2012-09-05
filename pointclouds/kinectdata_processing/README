@@ -22,9 +22,7 @@ FILES:
 $ cd build
 $ cmake ..
 $ make
-$ ./3dreconstructor
-
-It is coded to test the file img_0848.yml
+$ ./3dreconstructor <path_to_yml_file>
 
 The calibration parameters are the ones given by Nicolas Burrus. They depend on the camera used, but people from kinectdata.com do not give their calibration parameters. More info on the main.cpp
 
@@ -70,6 +68,9 @@ and it corresponds to: img_0123_13.pcd
 
 NOTE: due to the restrictive license of the CMarkup software, Markup.h and Markup.cpp are not included in the repository. Check the DEPENDENCIES section of this file to download it. It is easy to use, just include the .h and .cpp in the folders inc/ and src/ respectively. The CMakeLists.txt file is ready to include it.
 
+----------------------------
+
+- depth_processing.zip : code from Sergey to analyze kinectdata.com
 
 
 
