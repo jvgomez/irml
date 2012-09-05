@@ -10,9 +10,16 @@
 
 using namespace std;
  
-int main()
+int main(int argc, char* argv[])
 {
-	std::ifstream fin("img_0848.yml");
+	char * filename;
+	if (argc > 1)  filename = argv[1];
+	else
+	{
+		cerr<<"You must specify a filename with a point cloud in format: x\ty\tz"<<endl;
+		return 0;
+	}
+	std::ifstream fin(filename);
 	YAML::Parser parser(fin);
 	YAML::Node doc;
 	parser.GetNextDocument(doc);
@@ -42,13 +49,15 @@ int main()
 	for (int row = 0; row < 480 ; ++row) {
 		for (int col = 0; col < 640 ; ++col) {
 			unsigned int i = row*640 + col;
-			cloud.points[i].x = (col - 339.30546187516956) * depth[i] / 594.21480358642339;   // http://nicolas.burrus.name/index.php/Research/KinectCalibration
-			cloud.points[i].y = (row - 242.73843891390746) * depth[i] / 591.04092248505947;
+			cloud.points[i].x = (col - 339.30780975300314) * depth[i] / 594.21434211923247;   // http://nicolas.burrus.name/index.php/Research/KinectCalibration
+			cloud.points[i].y = (row - 242.73913761751615) * depth[i] / 591.04053696870778;
 			cloud.points[i].z = depth[i];
 		}
 	}
 	
-	pcl::io::savePCDFileASCII ("test_pcd.pcd", cloud);
+	strcat(filename, ".pcd");
+	
+	pcl::io::savePCDFileASCII (filename, cloud);
 
 	return 0;
 }
